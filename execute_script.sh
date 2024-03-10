@@ -1,7 +1,7 @@
 
 #step1 单独运行
 #=================================
-#查看数据库中苹果属Malus分类的family数目
+#查看数据库中Malus分类的family数目
 #singularity exec /data/Erick_Tong/02Data_analysis_project/09Genome_assembly/03geneke/TETools202309.sif famdb.py lineage -ad Malus
 
 #统计Malus families数目
