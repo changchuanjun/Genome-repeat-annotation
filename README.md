@@ -5,5 +5,5 @@ For repeat annotation, This script implemented a comprehensive strategy to ident
 
 [2] Robert Hubley, Robert D. Finn, Jody Clements, Sean R. Eddy, Thomas A. Jones, Weidong Bao, Arian F.A. Smit, Travis J. Wheeler, The Dfam database of repetitive DNA families, Nucleic Acids Research, Volume 44, Issue D1, 4 January 2016, Pages D81–D89, https://doi.org/10.1093/nar/gkv1272.
 
-Acknowledgments
+Acknowledgments：
 This script was initially supported by genek(https://genek.cn/). I gratefully acknowledge X.D. Zhang for creating and integrating the pipeline. I have reorganized and modified it myself.
